@@ -4,6 +4,7 @@
 <b> <a href="https://www.youtube.com/watch?v=8dWL3wF_OMw" target="_blank"> Link to tutorial </a></b>
 <br>
 
+<br>
 Date:-31/10/2023
 <br>
 Enlisted below things I learnt today. 👇
@@ -33,17 +34,17 @@ Date:-01/12/2023
 Enlisted below things I learnt today. 👇
 <br>
 
-[1] constant ⛔
+✮[1] constant ⛔
 <br>
 
 ![Alt text](constant.png)
 
 <br>
 
-[2] Math 🔣
+✮[2] Math 🔣
 <br>
 
-[3] hypotenuse calc practice program 📐
+✮[3] hypotenuse calc practice program 📐
 
 ![Alt text](hypotheneus.png)
 
