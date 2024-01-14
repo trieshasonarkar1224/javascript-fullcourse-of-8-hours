@@ -19,13 +19,13 @@ Enlisted below things I learnt today. 👇
 ✮[3]user input 🧮
 <br>
 
-![Alt text](user.input.png)
+![Alt text](AS1/user.input.png)
 
 <br>
 
 ✮[4] type conversion
 
-![Alt text](type.conversion.png)
+![Alt text](AS1/type.conversion.png) 
 
 <br>
 
@@ -37,7 +37,7 @@ Enlisted below things I learnt today. 👇
 ✮[1] constant ⛔
 <br>
 
-![Alt text](constant.png)
+![Alt text](AS1/constant.png)
 
 <br>
 
@@ -46,5 +46,6 @@ Enlisted below things I learnt today. 👇
 
 ✮[3] hypotenuse calc practice program 📐
 
-![Alt text](hypotheneus.png)
+![Alt text](AS1/hypotheneus.png)
+
 
