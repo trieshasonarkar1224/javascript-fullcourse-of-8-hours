@@ -48,4 +48,31 @@ Enlisted below things I learnt today. 👇
 
 ![Alt text](AS1/hypotheneus.png)
 
+<br>
+Date:-14/1/2024
+<br>
+Enlisted below things I learnt today. 👇
+<br>
+
+✮[1] Counter program #️⃣
+
+<br>
+
+<video src="counter%20program/counter-program.mp4" controls title="Title"></video>
+
+<br>
+
+✮[2] random number generator 🎲
+
+<br>
+
+<video src="random%20number%20generator%20%F0%9F%8E%B2/random%20number.mp4" controls title="Title"></video>
+
+<br>
+
+✮[3] useful string methods 🧵
+<b>
+
+
+![Alt text](<string methods/string-methods .png>)
 
