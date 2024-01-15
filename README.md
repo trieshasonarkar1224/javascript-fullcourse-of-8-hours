@@ -58,10 +58,7 @@ Enlisted below things I learnt today. 👇
 
 <br>
 
-
-
 https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/0d6a1c82-e5a1-4d14-ab7f-1631edf58556
-
 
 
 <br>
@@ -70,8 +67,7 @@ https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/1
 
 <br>
 
-![capture_240115_102900](https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/6e139c56-7a02-48ae-9748-b2759a89e2d3)
-
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/1ad875ef-5433-41ff-a545-ad3cedbfab99
 
 <br>
 
