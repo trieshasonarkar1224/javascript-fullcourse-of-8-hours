@@ -7,7 +7,7 @@
 <br>
 Date:-31/10/2023
 <br>
-Enlisted below things I learnt today. 👇
+Enlisted below are the  things I learnt today. 👇
 <br>
 
 ✮[1] variables ❎
@@ -31,7 +31,7 @@ Enlisted below things I learnt today. 👇
 
 Date:-01/12/2023
 <br>
-Enlisted below things I learnt today. 👇
+Enlisted below are the things I learnt today. 👇
 <br>
 
 ✮[1] constant ⛔
@@ -51,7 +51,7 @@ Enlisted below things I learnt today. 👇
 <br>
 Date:-14/1/2024
 <br>
-Enlisted below things I learnt today. 👇
+Enlisted below are the things I learnt today. 👇
 <br>
 
 ✮[1] Counter program #️⃣
@@ -76,3 +76,75 @@ Enlisted below things I learnt today. 👇
 
 ![Alt text](<string methods/string-methods .png>)
 
+✮[4] string slicing ✂️
+<br>
+
+
+![Alt text](<String slicing/string.jpg>)
+
+<br>
+
+✮[5] method chaining ⛓️
+
+![Alt text](<Method chaining/method-chaining.jpg>)
+
+
+✮[6] if statements ❔
+
+![Alt text](<If statement/if-statement.jpg>)
+
+<br>
+Date:-15/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] checked property ✔️
+
+ ![Alt text](<checked property/checked-property.jpg>)
+
+ <br>
+
+ ✮[2] switches 🔀
+
+
+![Alt text](switches/switches.jpg)
+
+<br>
+
+✮[3] AND OR logical operators && ||
+
+<br>
+
+![Alt text](<AND OR logical operators &&/andor.jpg>)
+
+✮[4] NOT logical operator ❕
+
+![Alt text](<not logical operator/not logical.jpg>)
+
+<br>
+
+✮[4]while loops 🔁
+<br>
+
+![Alt text](<while loop/while.jpg>)
+
+
+
+✮[5] do while loops 🔂
+<br>
+
+![Alt text](<do while loop/do while.jpg>)
+
+
+
+✮[6]  for loops 🔃
+<br>
+
+![Alt text](<for loop/for loop.jpg>)
+
+
+✮[7] break and continue statements 💔
+<br>
+
+![Alt text](<break and continue/break continue.jpg>)
