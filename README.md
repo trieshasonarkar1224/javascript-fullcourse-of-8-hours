@@ -125,27 +125,89 @@ Enlisted below are the things I learnt today. 👇
 
 <br>
 
-✮[4]while loops 🔁
+✮[5]while loops 🔁
 <br>
 
 ![Alt text](<while loop/while.jpg>)
 
 
 
-✮[5] do while loops 🔂
+✮[6] do while loops 🔂
 <br>
 
 ![Alt text](<do while loop/do while.jpg>)
 
 
 
-✮[6]  for loops 🔃
+✮[7]  for loops 🔃
 <br>
 
 ![Alt text](<for loop/for loop.jpg>)
 
 
-✮[7] break and continue statements 💔
+✮[8] break and continue statements 💔
 <br>
 
 ![Alt text](<break and continue/break continue.jpg>)
+
+<br>
+Date:-16/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1]  nested loops ➿
+
+
+![Alt text](<23-nested loops/nested loops.jpg>)
+
+
+ <br>
+
+ ✮[2] functions ☎️
+
+![Alt text](24-functions/functions.jpg)
+
+
+<br>
+
+✮[3] return statement 🔙
+
+<br>
+
+![Alt text](<25-return statement/return statement.jpg>)
+
+
+
+✮[4] ternary operator ❔
+
+![Alt text](<26-ternary operators/ternary operator.jpg>)
+
+
+<br>
+
+✮[5] var vs let 🥊
+<br>
+
+
+
+
+
+✮[6] template literals 💬
+
+<br>
+
+
+
+
+
+✮[7] format currency 💲
+<br>
+
+
+
+
+✮[8] number guessing game 🔢
+<br>
+
+
