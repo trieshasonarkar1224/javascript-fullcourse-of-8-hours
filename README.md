@@ -255,3 +255,39 @@ Enlisted below are the things I learnt today. 👇
 
 ![Alt text](38-callbacks/callbacks.png)
 
+<br>
+Date:-18/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1]array.forEach() 🔚
+
+
+
+✮[2]array.map() ⚙️
+
+
+
+✮[3]array.filter() 🗑️
+
+
+
+✮[4] array.reduce() 🔁
+
+
+
+✮[5] sort an array of numbers 📋 
+
+
+
+✮[6]  function expressions 🤫
+
+
+
+✮[7]arrow function expressions 🏹
+
+
+
+✮[8]shuffle an array 🃏
+
