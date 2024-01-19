@@ -189,6 +189,7 @@ Enlisted below are the things I learnt today. 👇
 ✮[5] var vs let 🥊
 <br>
 
+![Alt text](<27-var vs let/var vs let.png>)
 
 
 
@@ -197,17 +198,60 @@ Enlisted below are the things I learnt today. 👇
 
 <br>
 
-
-
-
+![Alt text](<28-template literals/template literals.png>)
 
 ✮[7] format currency 💲
 <br>
 
+![Alt text](<29-formatb currency/format currency.png>)
 
 
 
 ✮[8] number guessing game 🔢
 <br>
 
+
+<br>
+Date:-17/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] temperature conversion program 🌡️
+<br>
+
+
+✮[2] arrays 🍎
+<br>
+
+![Alt text](32-arrays/array.png)
+
+✮[3]loop through an array ➰
+<br>
+
+✮[4] sort an array of strings 🗃️
+<br>
+
+![Alt text](<34- sort an array/sort an array.png>)
+
+✮[5] 2D arrays 🛒 
+<br>
+
+![Alt text](<35-2d array/2d array.png>)
+
+✮[6]spread operator 🖐️
+<br>
+
+![Alt text](<36-spread operators/spread operator.png>)
+
+✮[7]  rest parameters 💤
+<br>
+
+![Alt text](<37-rest parameters/rest parameters.png>)
+
+
+✮[8]  callbacks 🤙
+<br>
+
+![Alt text](38-callbacks/callbacks.png)
 
