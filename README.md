@@ -265,22 +265,25 @@ Enlisted below are the things I learnt today. 👇
 
 ✮[1]array.forEach() 🔚
 
+![Alt text](<39-array for each/array for each.jpg>)
 
+✮[2]array.map
 
-✮[2]array.map() ⚙️
-
+![Alt text](<40-array.map/araay map.jpg>)() ⚙️
 
 
 ✮[3]array.filter() 🗑️
 
-
+![Alt text](<41-array filter/array filter.jpg>)
 
 ✮[4] array.reduce() 🔁
 
+![Alt text](<42-array reduce/array reduce.jpg>)
 
 
 ✮[5] sort an array of numbers 📋 
 
+![Alt text](<43-sort an array of number/sort an array of number.jpg>)
 
 
 ✮[6]  function expressions 🤫
@@ -289,7 +292,9 @@ Enlisted below are the things I learnt today. 👇
 
 ✮[7]arrow function expressions 🏹
 
+![Alt text](<45-arroe function expression/arrow function expression.jpg>)
 
 
 ✮[8]shuffle an array 🃏
 
+![Alt text](<46-shuffle an array/shuffle an array.jpg>)
