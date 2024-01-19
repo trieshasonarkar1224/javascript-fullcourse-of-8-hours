@@ -210,6 +210,7 @@ Enlisted below are the things I learnt today. 👇
 ✮[8] number guessing game 🔢
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/fec6abd4-60b3-4229-8a28-7d3e8fa4d565
 
 <br>
 Date:-17/1/2024
@@ -220,6 +221,7 @@ Enlisted below are the things I learnt today. 👇
 ✮[1] temperature conversion program 🌡️
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/07d4ec73-1578-40b6-a831-fa09fd74d3ea
 
 ✮[2] arrays 🍎
 <br>
