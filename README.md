@@ -288,7 +288,7 @@ Enlisted below are the things I learnt today. 👇
 
 ✮[6]  function expressions 🤫
 
-
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/5dae3e19-07d8-4336-a20a-e9904136319f
 
 ✮[7]arrow function expressions 🏹
 
