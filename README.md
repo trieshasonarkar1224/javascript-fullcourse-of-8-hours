@@ -298,3 +298,53 @@ https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/1
 ✮[8]shuffle an array 🃏
 
 ![Alt text](<46-shuffle an array/shuffle an array.jpg>)
+
+
+<br>
+Date:-22/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] nested functions 🐣 
+<br>
+
+![Alt text](<47-nested functions/nested functions.jpg>)
+
+<br>
+
+✮[2] maps 🗺️
+
+![Alt text](48-maps/maps.jpg)
+
+<br>
+
+✮[3] objects 🚗
+<br>
+
+![Alt text](49-object/objects.jpg)
+
+✮[4] this keyword 🔝
+<br>
+
+![Alt text](<50-this keyword/this keyword.jpg>)
+
+✮[5] classes 👨‍🏫
+<br>
+
+![Alt text](51-classes/classes.jpg)
+
+✮[6] constructors 👷
+<br>
+
+![Alt text](52-constructors/constructors.jpg)
+
+✮[7] static keyword ⚡
+<br>
+
+![Alt text](<53-static keyword/static keyword.jpg>)
+
+✮[8] inheritance 👪
+<br>
+
+![Alt text](54-inheritance/inheritance.jpg)
