@@ -348,3 +348,55 @@ Enlisted below are the things I learnt today. 👇
 <br>
 
 ![Alt text](54-inheritance/inheritance.jpg)
+
+<br>
+Date:-22/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] super keyword 🦸‍♂️
+<br>
+
+![Alt text](<55-super keyword/super keyword.jpg>)
+
+✮[2]getters & setters 🏎️
+<br>
+
+![Alt text](<56-getters and setters/getters.jpg>)
+
+✮[3] objects as arguments 📫
+<br>
+
+![Alt text](<57-objects as arguments/objects as around.jpg>)
+
+✮[4] array of objects 📮
+<br>
+
+![Alt text](<58-array of objects/array of objects.jpg>)
+
+✮[5] anonymous objects 🎭
+<br>
+
+![Alt text](<59-anonymous objects/anonymous.jpg>)
+
+✮[6] error handling 🏤
+<br>
+
+![Alt text](<60-errors handlings/error handlings.jpg>)
+
+✮[7] setTimeout() ⏰
+<br>
+
+![Alt text](<61-set timeout/set timeout.jpg>)
+
+✮[8]setInterval() ⏲️
+<br>
+
+ ![Alt text](62-setinterval/setinterval.jpg)
+
+✮[9] Date objects 📅
+<br>
+
+![Alt text](<63-date objects/date object.jpg>)
+
