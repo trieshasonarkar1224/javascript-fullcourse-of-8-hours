@@ -350,7 +350,7 @@ Enlisted below are the things I learnt today. 👇
 ![Alt text](54-inheritance/inheritance.jpg)
 
 <br>
-Date:-22/1/2024
+Date:-23/1/2024
 <br>
 Enlisted below are the things I learnt today. 👇
 <br>
