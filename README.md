@@ -400,3 +400,79 @@ Enlisted below are the things I learnt today. 👇
 
 ![Alt text](<63-date objects/date object.jpg>)
 
+
+<br>
+Date:-24/01/2024
+<br>
+Enlisted below are the  things I learnt today. 👇
+<br>
+
+
+✮[1] clock program 🕧
+<br>
+
+✮[2] asynchronous ⏳
+<br>
+
+![Alt text](65-asynchronous/asynchronous.jpg)
+
+✮[3] console.time() ⌚
+<br>
+
+![Alt text](66-console.time/consoe.time.jpg)
+
+✮[4] promises 🤞
+<br>
+
+![Alt text](67-promises/promises.jpg)
+
+✮[5] async 📥
+<br>
+
+![Alt text](68-async/async.jpg)
+
+✮[6] await ✋
+<br>
+
+![Alt text](69-await/await.jpg)
+
+✮[7] ES6 Modules 🚢
+<br>
+
+![Alt text](<70-ES6 modules/es6module.jpg>)
+
+✮[8] DOM intro ✨
+<br>
+
+![Alt text](<71- DOM intro/dom1.jpg>)
+
+✮[9] element selectors 👇
+<br>
+
+![Alt text](<72- element selectors/element traversal.jpg>)
+
+✮[10] DOM traversal 🌳
+<br>
+
+![Alt text](<73-DOM traversal/dom2.jpg>)
+
+✮[11] add/change HTML elements 🌎
+<br>
+
+![Alt text](<74-add change HTML elements/add change html.jpg>)
+
+✮[12] add/change CSS properties 🎨
+<br>
+
+![Alt text](<75-add change CSS properties/add change css.jpg>)
+
+✮[13] events 🎟️
+<br>
+
+![Alt text](76-events/events.jpg)
+
+✮[14] addEventListener() 👂
+<br>
+
+![Alt text](<77-addEventListener/add event.jpg>)
+

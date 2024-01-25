@@ -1,0 +1,1 @@
+myList = document.querySelector("#fruit"); listItem = document.createElement("li"); em.textContent = "mango"; st.append(listItem); st.prepend(listItem); 14 .insertBefore(listItem, mylist.getElementsByTagName("li"))
