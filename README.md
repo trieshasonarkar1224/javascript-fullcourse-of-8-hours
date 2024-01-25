@@ -411,6 +411,8 @@ Enlisted below are the  things I learnt today. 👇
 ✮[1] clock program 🕧
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/c645b221-1d26-4ee9-b283-716224f03ddb
+
 ✮[2] asynchronous ⏳
 <br>
 
