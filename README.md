@@ -486,11 +486,18 @@ Enlisted below are the things I learnt today. 👇
 ✮[1] show/hide HTML elements 💡
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/b42c9162-3465-4960-93eb-7c5c344eefa3
+
 ✮[2] detect key presses 🛎️ 
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/c658d2ff-8cb3-4e10-9bec-d6f1b237a9e0
+
 ✮[3] animations 🎞️
 <br>
+
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/10f95bc6-6880-4f46-b8f7-1bd6c1fdbae3
+
 
 ✮[4] canvas API 🖌️
 <br>
@@ -517,8 +524,12 @@ Enlisted below are the things I learnt today. 👇
 ✮[2] rock paper scissors game ✊
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/1e65c1b2-8b40-4ef8-b589-28ed67c86ae2
+
 ✮[3] tictactoe game ⭕
 <br>
+
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/97b6d667-2419-4ebe-bf22-520ed2a70e69
 
 <br>
 Date:-31/1/2024
@@ -529,5 +540,11 @@ Enlisted below are the things I learnt today. 👇
 ✮[1] snake game 🐍 
 <br>
 
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/c6f513de-935e-438a-9c2f-d8a433a7722b
+
 ✮[2]pong game 🏓
 <br>
+
+https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/147965443/ae135b4d-57ff-4e50-815f-915fdc2c29bf
+
+
