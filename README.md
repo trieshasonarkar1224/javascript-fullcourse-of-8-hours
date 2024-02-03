@@ -478,3 +478,56 @@ https://github.com/trieshasonarkar1224/javascript-fullcourse-of-8-hours/assets/1
 
 ![Alt text](<77-addEventListener/add event.jpg>)
 
+<br>
+Date:-29/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+✮[1] show/hide HTML elements 💡
+<br>
+
+✮[2] detect key presses 🛎️ 
+<br>
+
+✮[3] animations 🎞️
+<br>
+
+✮[4] canvas API 🖌️
+<br>
+
+![Alt text](<81-canvas API/capture_240203_210544.png>)
+
+✮[5] window 🗔
+<br>
+
+✮[6] cookies 🍪
+<br>
+
+![Alt text](83-cookies/cookie.jpg)
+
+<br>
+Date:-30/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] stopwatch program ⏱️
+<br>
+
+✮[2] rock paper scissors game ✊
+<br>
+
+✮[3] tictactoe game ⭕
+<br>
+
+<br>
+Date:-31/1/2024
+<br>
+Enlisted below are the things I learnt today. 👇
+<br>
+
+✮[1] snake game 🐍 
+<br>
+
+✮[2]pong game 🏓
+<br>
